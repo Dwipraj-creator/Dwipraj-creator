@@ -120,6 +120,9 @@ Git · GitHub · VS Code · Vercel · Postman
 📄 Create and download your personalized resume in minutes!  
 🔗 [Live Demo](https://resume-builder-h217.vercel.app/)  
 
+#### 🏷️ Tech Stack
+`React` `TailwindCSS` `Node.js` `Express` `MongoDB`  
+
 <p align="center">
   <a href="https://resume-builder-h217.vercel.app/">
     <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/Screenshot%202025-10-25%20152603.png" alt="Resume Builder Screenshot" width="600">
@@ -132,6 +135,9 @@ Git · GitHub · VS Code · Vercel · Postman
 🛠 _Tech: React, TailwindCSS, Firebase_  
 📊 Track your income, expenses, and savings goals with ease.  
 🔗 [Live Demo](https://personal-finance-tracker-bwlh.vercel.app/)  
+
+#### 🏷️ Tech Stack
+`React` `TailwindCSS` `Firebase` `Recharts`  
 
 <p align="center">
   <a href="https://personal-finance-tracker-bwlh.vercel.app/">
@@ -155,11 +161,13 @@ Git · GitHub · VS Code · Vercel · Postman
 
 ## 🤝 Connect with Me
 
+
 <p align="left">
-<a href="https://linkedin.com/in/dwipraj-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwipraj-dey" height="30" width="40" /></a>
-<a href="https://fb.com/dwipraj dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dwipraj dey" height="30" width="40" /></a>
-<a href="https://instagram.com/dwiprajdey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwiprajdey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dwiprajdey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwipraj-dey" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dwipraj.dey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dwipraj dey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dwiprajdey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwiprajdey" height="30" width="40" /></a>
 </p>
+
 
 📫 **Email:** dwiprajdey33720@gmail.com  
 🌐 **Portfolio:** [personal-portfolio-omega-weld.vercel.app](https://personal-portfolio-omega-weld.vercel.app/)  
