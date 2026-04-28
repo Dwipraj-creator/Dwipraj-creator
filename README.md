@@ -135,7 +135,9 @@ Git · GitHub · VS Code · Vercel · Postman
 - 💳 Stripe-powered payments & enrollment system  
 - 🔐 Secure authentication using Clerk  
 - ⭐ Ratings & comments system  
-- 📊 Booking & revenue analytics  
+- 📊 Booking & revenue analytics
+
+- ---
 
 ### 🧾 [Resume Builder](https://github.com/Dwipraj-creator/Resume-Builder)
 🛠 _Tech: React, TailwindCSS, Mongo Atlas_  
