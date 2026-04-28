@@ -118,13 +118,13 @@ Git · GitHub · VS Code · Vercel · Postman
 ### 🎓 [Learning Management System](https://github.com/Dwipraj-creator/Learning-Management-System)
 🛠 _Tech: React, TailwindCSS, Node.js, Express, MongoDB, Clerk, Stripe_  
 📚 Full-stack LMS platform with course management, bookings, payments, and admin analytics.  
-🔗 [Live Demo](https://learning-management-system-3-llud.onrender.com)
+🔗 [Live Demo](https://learning-management-system-zeta-five.vercel.app/)
 
 #### 🏷️ Tech Stack
 `React` `TailwindCSS` `Node.js` `Express` `MongoDB` `Clerk` `Stripe`  
 
 <p align="center">
-  <a href="https://learning-management-system-3-llud.onrender.com">
+  <a href="https://learning-management-system-zeta-five.vercel.app/">
     <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-04-26%20010124.png" alt="LMS Screenshot" width="600">
   </a>
 </p>
