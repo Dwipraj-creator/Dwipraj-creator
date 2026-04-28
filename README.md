@@ -125,7 +125,7 @@ Git · GitHub · VS Code · Vercel · Postman
 
 <p align="center">
   <a href="https://learning-management-system-3-llud.onrender.com">
-    <img src="" alt="LMS Screenshot" width="600">
+    <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-04-26%20010124.png" alt="LMS Screenshot" width="600">
   </a>
 </p>
 
