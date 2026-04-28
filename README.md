@@ -115,6 +115,28 @@ Git · GitHub · VS Code · Vercel · Postman
 
 ## 🎨 Featured Projects
 
+### 🎓 [Learning Management System](https://github.com/Dwipraj-creator/Learning-Management-System)
+🛠 _Tech: React, TailwindCSS, Node.js, Express, MongoDB, Clerk, Stripe_  
+📚 Full-stack LMS platform with course management, bookings, payments, and admin analytics.  
+🔗 [Live Demo](https://learning-management-system-3-llud.onrender.com)
+
+#### 🏷️ Tech Stack
+`React` `TailwindCSS` `Node.js` `Express` `MongoDB` `Clerk` `Stripe`  
+
+<p align="center">
+  <a href="https://learning-management-system-3-llud.onrender.com">
+    <img src="" alt="LMS Screenshot" width="600">
+  </a>
+</p>
+
+#### ⚡ Key Features
+- 📖 Course catalog with filters & structured content  
+- 🧑‍🏫 Admin dashboard for course & booking management  
+- 💳 Stripe-powered payments & enrollment system  
+- 🔐 Secure authentication using Clerk  
+- ⭐ Ratings & comments system  
+- 📊 Booking & revenue analytics  
+
 ### 🧾 [Resume Builder](https://github.com/Dwipraj-creator/Resume-Builder)
 🛠 _Tech: React, TailwindCSS, Mongo Atlas_  
 📄 Create and download your personalized resume in minutes!  
