@@ -138,13 +138,13 @@ Git • GitHub • Postman • Vercel • VS Code • Redis
 
 ### 🎬 Movie Watchlist System
 
-🔗 Live: https://movie-watchlist-cor5.vercel.app/
+🔗 Live: https://movie-watchlist-uc7y.vercel.app/
 🔗 **GitHub:** https://github.com/Dwipraj-creator/Movie-Watchlist
 
 ---
 
 <p align="center">
-  <a href="https://movie-watchlist-pearl.vercel.app/">
+  <a href="https://movie-watchlist-uc7y.vercel.app/">
     <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-05-31%20033102.png" width="90%" />
   </a>
 </p>
