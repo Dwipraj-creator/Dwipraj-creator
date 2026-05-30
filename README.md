@@ -1,204 +1,223 @@
-## Hi there 👋
+<!-- ========================= -->
+<!-- 🌌 HERO SECTION -->
+<!-- ========================= -->
 
-<!--
-**Dwipraj-creator/Dwipraj-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Banner -->
 <p align="center">
-  <a href="https://personal-portfolio-omega-weld.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
 </p>
 
+<h1 align="center">
+  Hi, I'm <span style="color:#38bdf8;">Dwipraj Dey</span> 👋
+</h1>
 
-<h1 align="center">Hi 👋, I'm Dwipraj Dey</h1>
-<h3 align="center">🚀An aspiring Full-stack web developer proficient in React, Tailwind CSS, Node.js, Express.js, MongoDB, HTML, and JavaScript.</h3>
+<h3 align="center">
+  Full Stack Engineer • MERN Specialist • UI-Focused Builder • Problem Solver
+</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dwipraj-creator&label=Profile%20views&color=0e75b6&style=flat" alt="dwipraj-creator" /> 
+<p align="center">
+  Building scalable web apps with React, Node.js & MongoDB
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=600&color=0e75b6&center=true&vCenter=true&width=600&height=50&lines=Frontend+Wizard+crafting+with+React+%26+TailwindCSS;Backend+Explorer+with+Node.js+%26+MongoDB;Building+My+Dream+Portfolio+🚀)
-
----
-
-## 💫 About Me  
-💻 Frontend Wizard crafting with React & TailwindCSS  
-🔧 Backend Explorer building with Node.js, Express & MongoDB  
-🎯 Current Mission: Building my dream portfolio with ReactJS  
-🌱 Leveling Up: System Design & Advanced TypeScript  
-🤝 Open for: Fullstack collaborations & Open Source adventures  
-⚡ Fun fact: I debug faster listening to 90's songs 🎧  
-
----
-
-## 🎯 Current Focus
-**Working On**
-- ✨ [Personal Portfolio Website](https://personal-portfolio-omega-weld.vercel.app/) — ReactJS + TailwindCSS
-
-**Learning**
-- System Design Patterns  
-- Advanced TypeScript  
-- Performance Optimization
-
----
-
-## 🧠 Skills & Tools
-
-### 🖥️ Frontend
-React · JavaScript · TypeScript · TailwindCSS · HTML5 · CSS3  
-
-### ⚙️ Backend & Database
-Node.js · Express.js · MongoDB · Firebase  
-
-### 🧰 Tools & Platforms
-Git · GitHub · VS Code · Vercel · Postman  
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwipraj-creator&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-India-38bdf8?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎨 Featured Projects
+<!-- ========================= -->
+<!-- ABOUT (POSITIONING) -->
+<!-- ========================= -->
 
-### 🎓 [Learning Management System](https://github.com/Dwipraj-creator/Learning-Management-System)
-🛠 _Tech: React, TailwindCSS, Node.js, Express, MongoDB, Clerk, Stripe_  
-📚 Full-stack LMS platform with course management, bookings, payments, and admin analytics.  
-🔗 [Live Demo](https://learning-management-system-zeta-five.vercel.app/)
+## 🧠 About Me
 
-#### 🏷️ Tech Stack
-`React` `TailwindCSS` `Node.js` `Express` `MongoDB` `Clerk` `Stripe`  
+I’m a full-stack developer focused on building **production-ready, scalable web applications** with modern JavaScript ecosystems.
 
+- ⚡ Strong in React + Node.js architecture
+- 🧩 Focused on clean UI/UX and reusable components
+- 🧠 Learning system design & advanced backend patterns
+- 🚀 Interested in SaaS products and scalable platforms
+- 🤝 Open to collaboration on real-world projects
+
+---
+
+<!-- ========================= -->
+<!-- SKILLS (STRUCTURED) -->
+<!-- ========================= -->
+
+## ⚙️ Tech Stack
+
+### Frontend Engineering
+<p>
+React • TypeScript • JavaScript • TailwindCSS • Redux • HTML5 • CSS3
+</p>
+
+### Backend Engineering
+<p>
+Node.js • Express.js • REST APIs • MongoDB • Firebase
+</p>
+
+### Tools & DevOps
+<p>
+Git • GitHub • Postman • Vercel • VS Code • Redis
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- SKILL ICON GRID -->
+<!-- ========================= -->
+
+## 🧰 Tools I Use Daily
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,redis,vscode" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- IMPACT PROJECTS -->
+<!-- ========================= -->
+
+## 🚀 Featured Engineering Projects
+
+> These projects demonstrate full-stack architecture, authentication flows, and real-world UI/UX systems.
+
+---
+
+### 🎓 Learning Management System (Flagship Project)
+
+🔗 Live: https://learning-management-system-zeta-five.vercel.app/
+🔗 **GitHub:** https://github.com/Dwipraj-creator/Learning-Management-System 
+
+---
 <p align="center">
   <a href="https://learning-management-system-zeta-five.vercel.app/">
-    <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-04-26%20010124.png" alt="LMS Screenshot" width="600">
+    <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-04-26%20010124.png" width="90%" />
   </a>
 </p>
 
-#### ⚡ Key Features
-- 📖 Course catalog with filters & structured content  
-- 🧑‍🏫 Admin dashboard for course & booking management  
-- 💳 Stripe-powered payments & enrollment system  
-- 🔐 Secure authentication using Clerk  
-- ⭐ Ratings & comments system  
-- 📊 Booking & revenue analytics
+---
 
-- ---
+**What it demonstrates:**
+- Multi-role architecture (Admin / User)
+- Course + booking system
+- Payment integration (Stripe)
+- Authentication (Clerk)
+- Analytics dashboard
 
-### 🧾 [Resume Builder](https://github.com/Dwipraj-creator/Resume-Builder)
-🛠 _Tech: React, TailwindCSS, Mongo Atlas_  
-📄 Create and download your personalized resume in minutes!  
-🔗 [Live Demo](https://resume-builder-h217.vercel.app/)  
+**Stack:** React • Node.js • Express • MongoDB • Tailwind • Stripe • Clerk
 
-#### 🏷️ Tech Stack
-`React` `TailwindCSS` `Node.js` `Express` `MongoDB`  
+---
 
+### 🧾 Resume Builder Platform
+
+🔗 Live: https://resume-builder-h217.vercel.app/
+🔗 **GitHub:** https://github.com/Dwipraj-creator/Resume-Builder
+
+---
 <p align="center">
   <a href="https://resume-builder-h217.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/Screenshot%202025-10-25%20152603.png" alt="Resume Builder Screenshot" width="600">
+    <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202025-10-25%20152603.png" width="90%" />
   </a>
 </p>
 
 ---
 
-### 💰 [Personal Finance Tracker](https://github.com/Dwipraj-creator/Personal-Finance-Tracker)
-🛠 _Tech: React, TailwindCSS, Firebase_  
-📊 Track your income, expenses, and savings goals with ease.  
-🔗 [Live Demo](https://personal-finance-tracker-bwlh.vercel.app/)  
+**What it demonstrates:**
+- Form-driven dynamic UI
+- Resume generation workflow
+- Database persistence
+- Component-driven architecture
 
-#### 🏷️ Tech Stack
-`React` `TailwindCSS` `Firebase` `Recharts`  
+**Stack:** React • Node.js • MongoDB • TailwindCSS
+
+---
+
+### 🎬 Movie Watchlist System
+
+🔗 Live: https://movie-watchlist-cor5.vercel.app/
+🔗 **GitHub:** https://github.com/Dwipraj-creator/Movie-Watchlist
+
+---
 
 <p align="center">
-  <a href="https://personal-finance-tracker-bwlh.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/Screenshot%202025-10-25%20152513.png" alt="Personal Finance Tracker Screenshot" width="600">
+  <a href="https://movie-watchlist-pearl.vercel.app/">
+    <img src="https://github.com/Dwipraj-creator/Dwipraj-creator/blob/main/Screenshot%202026-05-31%20033102.png" width="90%" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+**What it demonstrates:**
+- CRUD operations
+- State management
+- Responsive UI system
+- Clean UX patterns
+
+**Stack:** React • JavaScript • TailwindCSS
+
+---
+
+<!-- ========================= -->
+<!-- GITHUB ANALYTICS -->
+<!-- ========================= -->
+
+## 📊 GitHub Performance
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dwipraj-creator&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwipraj-creator&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dwipraj-creator&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwipraj-creator&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=dwipraj-creator&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=dwipraj-creator&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+<!-- ========================= -->
+<!-- ACHIEVEMENTS SIGNALS -->
+<!-- ========================= -->
 
+## 🏆 Engineering Focus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dwiprajdey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwipraj-dey" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dwipraj.dey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dwipraj dey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dwiprajdey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwiprajdey" height="30" width="40" /></a>
-</p>
-
-
-📫 **Email:** dwiprajdey33720@gmail.com  
-🌐 **Portfolio:** [personal-portfolio-omega-weld.vercel.app](https://personal-portfolio-omega-weld.vercel.app/)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1aVGy8_tVT9bh-Z2uRTOpFP6d29ZMI8ju/view?usp=drivesdk)
+- ⚡ Full-stack JavaScript ecosystem
+- 🧠 Clean architecture mindset
+- 🔐 Authentication + secure apps
+- 📦 API-first development approach
+- 🎯 UI systems with TailwindCSS
 
 ---
 
-<footer align="center">
-  Made with ❤️ by <b>Dwipraj Dey</b>
-</footer>
+<!-- ========================= -->
+<!-- CONNECT -->
+<!-- ========================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dwiprajdey/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dwiprajdey33720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/dwiprajdey/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- FOOTER -->
+<!-- ========================= -->
+
+<p align="center">
+  <b>Built with precision • Focused on real-world engineering • Always improving</b>
+</p>
